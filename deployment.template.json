@@ -11,9 +11,9 @@
             "loggingOptions": "",
             "registryCredentials": {
               "docker": {
-                "username": "$CONTAINER_REGISTRY_USERNAME_docker",
-                "password": "$CONTAINER_REGISTRY_PASSWORD_docker",
-                "address": "$CONTAINER_REGISTRY_SERVER_docker"
+                "username": "$ACR_USERNAME",
+                "password": "$ACR_PASSWORD",
+                "address": "$ACR_ADDRESS"
               }
             }
           }
