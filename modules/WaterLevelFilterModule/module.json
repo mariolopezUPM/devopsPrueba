@@ -4,7 +4,7 @@
     "image": {
         "repository": "testcontainerregistrygroup5.azurecr.io/waterlevelfiltermodule",
         "tag": {
-            "version": "0.0.8",
+            "version": "0.0.9",
             "platforms": {
                 "amd64": "./Dockerfile.amd64"
             }
